@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'objc_setAssociatedObject' target in the 'objc_setAssociatedObject' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
